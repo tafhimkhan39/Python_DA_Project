@@ -50,7 +50,7 @@ The dataset contains product-level data scraped from ASOS, including:
 * **Python**
 * **Pandas** – data cleaning and transformation
 * **Matplotlib & Seaborn** – data visualization
-* **Google Colab** - environment
+* **Jupyter Notebook** - environment
 
 ---
 
